@@ -15,6 +15,8 @@ Google Drive
 ## Version
 01 Initial Release
 
+02 Working Tanker
+
 ## What is inside the Auto Installer
 ### CVN-76 USS Ronald Reagan
 made flyable for FSX Only by Bruce Fitzgerald / fitzgeba@hotmail.com
