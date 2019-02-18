@@ -2,7 +2,7 @@
 Autoinstaller for Eastern Dragons FSX 
 
 ## Getting Started
-Download the .zip File from [Here](https://drive.google.com/file/d/1s11nS44u29NkSG3P7J4NakGTMNM2BB0Z/view?usp=sharing)
+Download the .zip File from [Here](https://drive.google.com/file/d/1c_S1Bk5LjLiKgTNqplmgo0hYVWr--tWl/view?usp=sharing)
 Extract the Content's.
 Run the EXE and Press Install.
 If your FSX is not on the Standart FSX Folder it will Ask you for your Root Folder.
@@ -10,7 +10,7 @@ Select it and wait for the Magic to happen.
 
 ## Download
 Google Drive 
-[Eastern Dragons Auto-Installer.zip](https://drive.google.com/file/d/1s11nS44u29NkSG3P7J4NakGTMNM2BB0Z/view?usp=sharing)
+[Eastern Dragons Auto-Installer.zip](https://drive.google.com/file/d/1c_S1Bk5LjLiKgTNqplmgo0hYVWr--tWl/view?usp=sharing)
 
 ## Version
 01 Initial Release
