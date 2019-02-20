@@ -2,7 +2,7 @@
 Autoinstaller for Eastern Dragons FSX 
 
 ## Getting Started
-Download the .zip File from [Here](https://drive.google.com/file/d/1c_S1Bk5LjLiKgTNqplmgo0hYVWr--tWl/view?usp=sharing)
+Download the .zip File from [Here](https://github.com/PiecePaperCode/Eastern-Dragons-Auto-Installer/raw/master/Eastern%20Dragons%20Auto-Installer/Airplanes/Eastern%20Dragons%20Auto-Installer.zip)
 Extract the Content's.
 Run the EXE and Press Install.
 If your FSX is not on the Standart FSX Folder it will Ask you for your Root Folder.
@@ -10,12 +10,23 @@ Select it and wait for the Magic to happen.
 
 ## Download
 Google Drive 
-[Eastern Dragons Auto-Installer.zip](https://drive.google.com/file/d/1c_S1Bk5LjLiKgTNqplmgo0hYVWr--tWl/view?usp=sharing)
+[Eastern Dragons Auto-Installer.zip](https://github.com/PiecePaperCode/Eastern-Dragons-Auto-Installer/raw/master/Eastern%20Dragons%20Auto-Installer/Airplanes/Eastern%20Dragons%20Auto-Installer.zip)
+
+## How to USE
+CVN-76: Carrier should work as intended Try to grap one of the Cables to slow down on Deck
+
+To use Refuel use the F18-EHOPS Plane and Press Shift 5. Chose the Tanker (KC-135T) and Use Level 2 and Turn Refuel On
+
+U.S.S Fritzgerald: Works like an normal Ship Helicopters can land on the Helipad
 
 ## Version
 01 Initial Release
 
 02 Working Tanker
+
+03 Fix for Actual working Tanker You need to Fly the F18 EHOPS and Press Shift 5
+
+04 Added An pilotable Ship
 
 ## What is inside the Auto Installer
 ### CVN-76 USS Ronald Reagan
@@ -32,3 +43,7 @@ Duncan "Razgriz" Lee, Jivko "Neutrino" Rusev, and Orion Lyao. AI Tanker file com
 Umberto "Virtuali" Colapicchioni.  FSDREAMTEAM.COM Administrator and FSX: Acceleration Pack
 F/A-18 developer.  The FSDreamTeam.com forum, where I am a member, and its many users.  Their
 many floated, realized, and sometimes unrealized, ideas in FSX modding.
+
+### U.S.S Fritzgerald
+made pilotable for FSX ONLY by Bruce Fitzgerald
+- fitzgeba@hotmail.com
