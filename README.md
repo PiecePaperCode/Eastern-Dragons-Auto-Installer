@@ -29,12 +29,18 @@ U.S.S Fritzgerald: Works like an normal Ship Helicopters can land on the Helipad
 
 ## What is inside the Auto Installer
 ### CVN-76 USS Ronald Reagan
+Featuring an Helipad
+
 made flyable for FSX Only by Bruce Fitzgerald / fitzgeba@hotmail.com
 
 ### EHOPS-F18
-Official Eastern Hops F-18 From official Link
+Updated HUD Compatible with REFUELING
+
+Official Eastern Hops F-18 From official Link.
 
 ### KC-135T
+Use The Tanker so Player Can Refuel with the F18 EHOPS
+
 Chuck Grimes.  Original FS2004 KC-135T Stratotanker v1.85.
 Rok Dolenec.  KC-135T aircraft model and textures.  Stratotanker v1.9 Patch.
 Bob Chicilo.  FSX update of Mike Stone's KC-135 StratoTanker Panel/Gauge files.
@@ -44,5 +50,7 @@ F/A-18 developer.  The FSDreamTeam.com forum, where I am a member, and its many 
 many floated, realized, and sometimes unrealized, ideas in FSX modding.
 
 ### U.S.S Fritzgerald
+Featuring an Helipad
+
 made pilotable for FSX ONLY by Bruce Fitzgerald
 - fitzgeba@hotmail.com
