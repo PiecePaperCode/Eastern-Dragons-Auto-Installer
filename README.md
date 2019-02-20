@@ -9,7 +9,6 @@ If your FSX is not on the Standart FSX Folder it will Ask you for your Root Fold
 Select it and wait for the Magic to happen.
 
 ## Download
-Google Drive 
 [Eastern Dragons Auto-Installer.zip](https://github.com/PiecePaperCode/Eastern-Dragons-Auto-Installer/raw/master/Eastern%20Dragons%20Auto-Installer/Airplanes/Eastern%20Dragons%20Auto-Installer.zip)
 
 ## How to USE
