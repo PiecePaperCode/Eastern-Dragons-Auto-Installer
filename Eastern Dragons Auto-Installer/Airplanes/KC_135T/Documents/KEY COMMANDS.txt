@@ -1,0 +1,38 @@
+
+
+                            KC-135T KEY COMMANDS
+
+ Keys                   Function      
+
+ Shift + 1             Don't Use
+ Shift + 2 + 3      Toggles Copilots Panel 
+ Shift + 3 + 2      Toggles Pilots Panel   
+ Shift + 4          Toggles Engine Start Panel 
+ Shift + 5          Toggles A/P 
+ Shift + 6          Toggles Fuel Panel
+ Shift + 7          Toggles Radiostack
+ Shift + 8          Toggles GPS
+ shift + 9          Toggles Throttle Quadrant 
+
+              VIEWS
+
+ shift + KP1        Rear Left
+ Shift + KP2        Rear
+ Shift + KP3        Rear Right
+ Shift + KP4        Left
+ Shift + KP5        Boom Operaters Sighting Window
+ Shift + KP6        Right
+ Shift + KP7        Forward Left
+ Shift + KP8        Pilots Panel
+ Shift + KP9        Forward Right
+ 
+ Ctrl + KP1         Left Wing
+ Ctrl + KP3         Right Wing
+ Ctrl + KP8         Overhead Panel           
+ Ctrl + KP5         Landing Panel
+   
+                     TO OPEN AIRCRAFT DOORS
+ 
+To open doors use "SHIFT+E" for Passenger door and "SHIFT+E" then "2" for Cargo door.
+
+

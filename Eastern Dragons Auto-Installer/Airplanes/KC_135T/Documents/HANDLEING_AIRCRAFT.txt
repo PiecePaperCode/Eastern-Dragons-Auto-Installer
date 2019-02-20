@@ -1,0 +1,70 @@
+                                HANDLEING THE AIRCRAFT
+
+  Important NOTE from one of the Flight TESTERS Maj. Michael R Goodman USAF Ret.
+   
+   "Quote" "I would suggest a fuel load of 45K that would place the gross weight at 
+   around 160,000 pounds.I don't see any reason to fly around at Max Gross weight".   
+
+                      
+    	TAKE-OFF
+  **********************
+   * Flaps set to .......................20º
+   * Elevator Trim set to ...............1.5 Units UP
+   * Thrusters to .......................MAX
+   * Rotate at ..........................130 KIAS if Fuel Load is under 200,000 lbs.
+               ..........................160 KIAS if Fuel Load is over 250,000 lbs.
+   * Landing Gear Retract at ............At 200 feet if positve rate of Climb
+   
+
+
+    STRAIGHT CLIMB-OUT 
+  **********************
+  * Take-OFF Flare........AOA Indicator can be used 0.7 to 0.8 after take-off
+  * 15º MAX Pitch
+  * 200 KIAS MAX
+  * Lower Nose at 200-300 FT
+  * Retract Flaps,if down 
+  * Set Climb Thrust
+  * Accelerate to 250 KIAS below 10,000 FT MSL if Obstacle Clearance/Maneuvering
+    are not required.
+  
+       CRUISE
+  *********************
+  Maximum range is attained by flying at one particular Mach number and gradually
+  increasing altitude as airplane weight is decreased through fuel consumption.Such
+  a climbing flight path is accomplished by setting the throttles to provide a given 
+  EPR for a  corresponding cruise Mach number.
+  
+   
+
+
+
+
+
+         DESCENT
+  ************************
+  * Descent may be accomplished by positioning the throttles to IDLE. Rate of descent may
+  be increased to approximantely 2500 feet per minute by extending speed brakes to 60º. 
+                             
+                                       [WARNING]
+            sPEED brakes shall not be used during approach below 1000 feet AGL. 
+  
+
+
+     APPROACH TO LANDING
+  **************************
+  * 30 NM from END Runway.........250 KIAS. 10,000 ft.
+  * 10 NM from END Runway.........180 KIAS, 3,000 ft. 
+  * At the local specified traffic pattern altitude,flaps set to 20º. 
+             
+                                       [WARNING]
+            sPEED brakes shall not be used during approach below 1000 feet AGL
+  
+
+  For more Planes and Panels visit my website:
+  http://home.comcast.net/~chuckgrimes
+
+
+
+
+

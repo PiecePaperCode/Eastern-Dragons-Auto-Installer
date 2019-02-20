@@ -1,0 +1,17 @@
+                   
+
+
+                TO SET UP KEY COMMANDS FOR EXTENDING/RETRACTING
+                THE REFUELING BOOM.
+ 
+ 1. Open FS9 or FS2K2,press the ALT KEY then options,CONTROLS,ASSIGNMENTS.
+ 
+ 2. Under the BUTTONS/KEY TAB in the "Assignment List" Screen scholl down
+    and find the "TAILHOOK" listing. Assign the "SHIFT + T" Keys, click OK.
+
+
+    Now you will be able to EXTEND and RETRACT the Boom by pressing the 
+    "Shift + T" key.
+
+
+    Chuck Grimes   
