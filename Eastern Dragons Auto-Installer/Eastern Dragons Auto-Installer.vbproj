@@ -133,6 +133,9 @@
     <None Include="Airplanes\CVN76\panel\panel_backup001.cfg" />
     <None Include="Airplanes\CVN76\panel\Thumbs.db" />
     <None Include="Airplanes\CVN76\sound\SOUND.CFG" />
+    <None Include="Airplanes\Eastern Dragons Auto-Installer.zip">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
     <None Include="Airplanes\EHOPS_F18\aircraft.cfg" />
     <None Include="Airplanes\EHOPS_F18\FA-18.air" />
     <None Include="Airplanes\EHOPS_F18\Model\FA-18.mdl" />
